@@ -23,6 +23,10 @@
 
 * https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
+> 请求好心人编译一下，感觉这个客户端挺好用的
+
+* https://github.com/00a7a00/shadowsocksr-csharp
+
 ## 搜索引擎
 
 * #### Google     [https://www.google.com/search?q=freess](https://www.google.com/search?q=freess)
