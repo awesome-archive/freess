@@ -40,6 +40,8 @@ https://github.com/shadowsocksRb/shadowsocksRb-android #Android
 
 https://github.com/huio/Maying #Android
 
+https://github.com/00a7a00/shadowsocksr-csharp #Windows
+
 
 ## 服务端
 
